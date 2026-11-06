@@ -1,8 +1,12 @@
 # 星光玩具岛 · POP PLAYLAND
 
-A small, explorable 3D toy island populated by six Twinkle Twinkle-inspired star characters and six Labubu-inspired characters. All models and scenery are procedural fan artwork.
+A small, explorable 3D toy island populated by eight Twinkle Twinkle-inspired star characters and eight Labubu-inspired characters. All models and scenery are procedural fan artwork.
 
-Click the ground to walk. Click a character to approach and greet them, then use the action buttons to wave, pet, hug, dance, walk together, or pose for a souvenir photograph. Choose any of twelve character appearances, meet all twelve friends, collect twelve sparks, make a wish, and pick up a star balloon. Explore the plaza, village, forest, garden, lake and stage. Buildings and water constrain navigation; the lake has a walkable bridge.
+The atelier update adds sixteen distinct outfit silhouettes, smooth sculpted faces, glossy irises, embroidered and knitted fabrics, denim seams, fine plush pile, articulated ears, moving capes and layered wings. Use **细看朋友** for a portrait camera; the friend book and wardrobe show real 3D model portraits.
+
+Each character has an individual personality and idle repertoire: yawning, napping, saluting, adjusting glasses, examining a flower, nibbling a donut, bowing, giggling, stretching and more. Interaction expressions ease between states, with asymmetric winks, curious eye movement, happy cheek blush and surprise. Dance and photo poses vary by character.
+
+Click the ground to walk. Click a character to approach and greet them, then use the action buttons to wave, pet, hug, dance, walk together, or pose for a souvenir photograph. Choose any of sixteen character appearances, meet all sixteen friends, collect twelve sparks, make a wish, and pick up a star balloon. Explore the plaza, village, forest, garden, lake and stage. Buildings and water constrain navigation; the lake has a walkable bridge.
 
 - Mouse: click to move/interact, drag to orbit, wheel to zoom.
 - Keyboard: WASD or arrow keys to walk, Space to hop, E to greet, C to photograph.
@@ -22,3 +26,5 @@ Visual references were viewed for recognizable features. No reference photograph
 - [Labubu plush reference](https://i.ebayimg.com/images/g/KxIAAeSwXFlo~v-H/s-l400.jpg)
 
 Three.js r160 is MIT licensed; see `THREE-LICENSE.txt`.
+
+Design reference notes: [REFERENCES.md](REFERENCES.md).
