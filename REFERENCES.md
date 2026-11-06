@@ -8,6 +8,8 @@ The official [Sweet Dreams Forecast collection](https://www.popmart.com/us/produ
 
 Official collection links: [Twinkle Twinkle](https://www.popmart.com/us/products/3450), [POP MART plush collection](https://www.popmart.com/us/collection/20).
 
+The living island refinement studies the official Keep Shining, Rain on Me and Hug from Snowman product images for the small painted eyes, rosy rounded face, delicate mouth and nose, fluffy hood opening, striped long socks, pointed mint rain hood and embroidered clothing. It retains eight distinct outfit interpretations and uses actual articulated geometry for dancing and park activities.
+
 ## LABUBU / THE MONSTERS
 
 The official [Labubu collection](https://www.popmart.com/us/collection/143/labubu-plush) lists Exciting Macaron, FLIP WITH ME, FALL IN WILD, Time to Chill, ROCK THE UNIVERSE, Let’s Checkmate, ANGEL IN CLOUDS and other themes. The island uses these references for fluffy hoods, striped shirts, glasses, denim overalls, outdoor hats, crowns, capes and wings. The space helmet and mushroom explorer are imaginative extensions for the island.
