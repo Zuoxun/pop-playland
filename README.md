@@ -8,6 +8,8 @@ Use **夜游指南** to walk to attractions. Ride the carousel, cloud swing, Fer
 
 The atelier update adds sixteen distinct outfit silhouettes, smooth sculpted faces, glossy irises, embroidered and knitted fabrics, denim seams, fine plush pile, articulated ears, moving capes and layered wings. Use **细看朋友** for a portrait camera; the friend book and wardrobe show real 3D model portraits.
 
+The Labubu face update refines all eight looks using plush product references: a continuous rounded vinyl face, warm skin, softly sculpted brows, large dark pupils, a tiny triangular nose and a closed crescent smile with nine short teeth. Eyes, blush and teeth follow the curved face in three dimensions. Petting, winking, surprise and sleepy expressions animate the new features, and the wardrobe and friend book render updated portraits.
+
 Each character has an individual personality and idle repertoire: yawning, napping, saluting, adjusting glasses, examining a flower, nibbling a donut, bowing, giggling, stretching and more. Interaction expressions ease between states, with asymmetric winks, curious eye movement, happy cheek blush and surprise. Dance and photo poses vary by character.
 
 Click the ground to walk. Click a character to approach and greet them, then use the action buttons to wave, pet, hug, dance, walk together, or pose for a souvenir photograph. Choose any of sixteen character appearances, meet all sixteen friends, collect twenty-four sparks, make a wish, and pick up a star balloon. Buildings, furniture and water constrain navigation; bridges connect the lakeside paths. Each interior has its own walkable floor plan.

@@ -18,4 +18,6 @@ Clothing photo references consulted:
 - [Sweet Dreams weather collection](https://i.ebayimg.com/images/g/RfMAAeSwOKhopT41/s-l1200.png)
 - [POP MART official weather product gallery](https://www.popmart.com/us/products/3450)
 
+The face refinement also uses the outdoor / striped shirt / overalls comparison above to study the broad rounded vinyl face, softly sculpted brows, large dark oval pupils, tiny triangular nose and the nine short teeth beneath a thin closed smile. The procedural eyes, smile and teeth conform to the curved face rather than projecting a deep open mouth. The reference photographs remain local review material and are not distributed in the game.
+
 Character identities and original product designs belong to their respective creators and rights holders. This project is unofficial and is not affiliated with POP MART. References reviewed 2026-11-06.
