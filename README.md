@@ -16,7 +16,7 @@ Residents now keep homes and activity routes throughout the park: the forest, ga
 
 The new 112 BPM show uses twenty animated 3D performers in seven chapters: rhythmic opening, a five-point star formation, takeoff, an airborne park parade, greetings with an applauding audience, arcing star projectiles, and a grounded bow. The camera follows the actual formation through the air. The soundtrack is a small original synthesized bell and bass arrangement; sound starts after a browser gesture. Performers return to their own routines after the show.
 
-All eight star outfits now use the original plush collection as reference for small painted eyes, rosy rounded faces, tiny noses and mouths, embroidered clothing, a pointed rain hood, striped socks and a soft fur opening. Distant residents use transparent portraits while close views and the show retain articulated 3D models.
+All eight star outfits now use the original plush collection as reference for big glossy white eyes, deep pupils with bright highlights, rosy circular cheeks, tiny blue teardrop noses, embroidered clothing, a pointed rain hood, striped socks and a soft fur opening. Distant residents use transparent portraits while close views and the show retain articulated 3D models.
 
 The Labubu face update refines all eight looks using plush product references: a continuous rounded vinyl face, warm skin, softly sculpted brows, large dark pupils, a tiny triangular nose and a closed crescent smile with nine short teeth. Eyes, blush and teeth follow the curved face in three dimensions. Petting, winking, surprise and sleepy expressions animate the new features, and the wardrobe and friend book render updated portraits.
 

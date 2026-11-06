@@ -8,7 +8,7 @@ The official [Sweet Dreams Forecast collection](https://www.popmart.com/us/produ
 
 Official collection links: [Twinkle Twinkle](https://www.popmart.com/us/products/3450), [POP MART plush collection](https://www.popmart.com/us/collection/20).
 
-The living island refinement studies the official Keep Shining, Rain on Me and Hug from Snowman product images for the small painted eyes, rosy rounded face, delicate mouth and nose, fluffy hood opening, striped long socks, pointed mint rain hood and embroidered clothing. It retains eight distinct outfit interpretations and uses actual articulated geometry for dancing and park activities.
+The living island refinement studies the official Keep Shining, Rain on Me and Hug from Snowman product images for big glossy white eyes, deep pupils with bright highlights, rosy circular cheeks, a tiny blue teardrop nose, a delicate mouth, a fluffy hood opening, striped long socks, a pointed mint rain hood and embroidered clothing. It retains eight distinct outfit interpretations and uses actual articulated geometry for dancing and park activities.
 
 ## LABUBU / THE MONSTERS
 
@@ -22,4 +22,4 @@ Clothing photo references consulted:
 
 The face refinement also uses the outdoor / striped shirt / overalls comparison above to study the broad rounded vinyl face, softly sculpted brows, large dark oval pupils, tiny triangular nose and the nine short teeth beneath a thin closed smile. The procedural eyes, smile and teeth conform to the curved face rather than projecting a deep open mouth. The reference photographs remain local review material and are not distributed in the game.
 
-Character identities and original product designs belong to their respective creators and rights holders. This project is unofficial and is not affiliated with POP MART. References reviewed 2026-11-06.
+Character identities and original product designs belong to their respective creators and rights holders. This project is unofficial and is not affiliated with POP MART. References reviewed 2026-11-07.
